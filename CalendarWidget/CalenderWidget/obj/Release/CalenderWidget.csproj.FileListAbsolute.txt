@@ -1,0 +1,18 @@
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.exe.config
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.exe
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.pdb
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.g.resources
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.Form1.resources
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.Properties.Resources.resources
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.csproj.GenerateResource.Cache
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.exe
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.pdb
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.exe.config
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.exe
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.pdb
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.exe
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Release\CalenderWidget.pdb
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.g.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.Form1.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.Properties.Resources.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Release\CalenderWidget.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.exe.config
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.exe
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.pdb
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.Form1.resources
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.Properties.Resources.resources
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.csproj.GenerateResource.Cache
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.exe
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.pdb
+I:\Coding\C#\Deitel\Chapter 15\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.g.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.exe.config
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.exe
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.pdb
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.exe
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.pdb
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.csprojResolveAssemblyReference.cache
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.g.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.Form1.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.Properties.Resources.resources
+I:\Coding\App Dev\WinForm apps\Calender Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.csproj.GenerateResource.Cache
+I:\Coding\App Dev\WinForm apps\Calendar Widget\CalenderWidget\CalenderWidget\bin\Debug\CalenderWidget.exe.config
+I:\Coding\App Dev\WinForm apps\Calendar Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.exe
+I:\Coding\App Dev\WinForm apps\Calendar Widget\CalenderWidget\CalenderWidget\obj\Debug\CalenderWidget.pdb
