@@ -1,7 +1,11 @@
 #Calendar Widget using windows forms
 
-#Features :
+##Features :
 
-1-> You can change the back color, 
-2-> Opacity control is a bit buggy now, in the works, 
-3-> Speaks out what day it is today and the day you select
+..* You can change the back color, 
+..* Opacity control is a bit buggy now, in the works, 
+..* Speaks out what day it is today and the day you select
+
+## Bugs encountered :
+
+..* Opacity control doesn't work yet, working on it
