@@ -1,4 +1,5 @@
-#Calendar Widget using windows forms
+#CalendarWidget for Windows
+###A windows forms application
 
 ##Features :
 
