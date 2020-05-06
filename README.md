@@ -1,7 +1,7 @@
-#CalendarWidget for Windows
-###A windows forms application
+# CalendarWidget for Windows
+### A windows forms application
 
-##Features :
+## Features :
 
 * You can change the back color,   
 * Opacity control is a bit buggy now, in the works, 
